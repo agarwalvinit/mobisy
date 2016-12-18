@@ -1,0 +1,13 @@
+.block-container {
+    padding: 20px;
+    width: 40%;
+    margin: auto;
+}
+.react-selectize.default.root-node.simple-select {
+    width: 100%;
+}
+@media screen and (max-width: 700px) {
+    .block-container {
+        width: 90%;
+    }
+}
